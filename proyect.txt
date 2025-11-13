@@ -9,3 +9,12 @@ app!
 sql!
 
 finish!1!!
+
+app-colegio/
+├── index.html
+├── css/
+│   └── style.css
+├── js/
+│   └── app.js
+├── package.json
+└── README.md
