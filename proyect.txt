@@ -1,22 +1,23 @@
-new project
-
-proyecto aplicativo de 0!!
-
-
-start!!
-colegio bd front end
-app!
-sql!
-
-finish!1!!
-
-app-colegio/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── app.js
-├── package.json
-└── README.md!!!!!!!
-
-mañana avances!!!!!!!!!!!???
+lib/
+├── main.dart
+├── core/
+│   ├── constants/
+│   ├── utils/
+│   └── theme/
+├── models/
+├── services/
+│   ├── auth_service.dart
+│   ├── database_service.dart
+│   └── storage_service.dart
+├── providers/
+├── screens/
+│   ├── auth/
+│   ├── admin/
+│   ├── teacher/
+│   └── student/
+├── widgets/
+│   ├── common/
+│   ├── admin/
+│   ├── teacher/
+│   └── student/
+└── routes/
