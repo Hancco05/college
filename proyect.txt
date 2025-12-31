@@ -22,4 +22,4 @@ lib/
 │   └── student/
 └── routes/!
 
-proyecto final standby
+proyecto final standby adios 2025
